@@ -19,7 +19,7 @@
 </div>
 
 <h4 align="center">
-  <a href="https://doi.org/10.1016/j.ecoinf.2024.102893/"><b>Paper</b></a> &nbsp;•&nbsp; 
+  <a href="https://doi.org/10.1016/j.ecoinf.2024.102893/"><b>Paper</b></a>
 </h4>
 
 <div align="center">
