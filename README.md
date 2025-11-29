@@ -4,18 +4,17 @@
 </h1>
 
 <h2 align="center">
-  Insert Research Work Full Title ---
+  eyond observation: Deep learning for animal behavior and ecological conservation Deep learning for animal behavior and ecological conservation
 </h2>
 
 
 <div align="center">
-  <a href="https://scholar.google.com/schhp?hl=en">Author 1</a> &nbsp;•&nbsp;
-  <a href="https://scholar.google.com/schhp?hl=en">Author 2</a> &nbsp;•&nbsp;
-  <a href="https://scholar.google.com/schhp?hl=en">Author 3</a> &nbsp;•&nbsp;
-  <a href="https://scholar.google.com/schhp?hl=en">Author 4</a> &nbsp;•&nbsp;
+  <a href="https://scholar.google.com/schhp?hl=en">Lyes Saad Saoud</a> &nbsp;•&nbsp;
+  <a href="https://scholar.google.com/schhp?hl=en">Atif Sultan</a> &nbsp;•&nbsp;
+  <a href="https://scholar.google.com/schhp?hl=en">Mahmoud Elmezain</a> &nbsp;•&nbsp;
+  <a href="https://scholar.google.com/schhp?hl=en">Mohamed Heshmat</a> &nbsp;•&nbsp;
   <br/>
-  <a href="https://scholar.google.com/schhp?hl=en">Author 5</a> &nbsp;•&nbsp;
-  <a href="https://scholar.google.com/schhp?hl=en">Author 6</a> &nbsp;•&nbsp;
+  <a href="https://scholar.google.com/schhp?hl=en">Lakmal Seneviratne</a> &nbsp;•&nbsp;
   <a href="https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en">Irfan Hussain</a> &nbsp;•&nbsp;
   <br/>
 </div>
@@ -40,7 +39,7 @@
 
 
 <div align="center">
-    Elaborate on your Research, your Research Objectives and Goals..
+    This review examines recent deep learning techniques for analyzing animal behavior and discusses their applications in ecological conservation.
   <img src="./website/images/overall.png"
   width="80%">
 </div>
@@ -49,57 +48,60 @@
 
 
 
-# Title
-Summarize Work Here.
+# Beyond observation: Deep learning for animal behavior and ecological conservation
+## Deep learning for animal behavior and ecological conservation
 
-# AI based Architecture 
+Lyes Saad Saoud • Atif Sultan • Mahmoud Elmezain • Mohamed Heshmat •  
+Lakmal Seneviratne • Irfan Hussain  
 
-This repository contains code for an AI-driven ....  
-The system allowsto describe .....
-
----
-
-## Features
-- **Title 1**: Share Text Here.  
-- **Title 2**: Share Text Here. 
-- **Title 3**: Share Text Here. 
-- **Title 4**: Share Text Here.  
+#### Website (this page) • [Paper (Elsevier)](https://doi.org/10.1016/j.ecoinf.2024.102893) • Video (coming soon)
 
 ---
 
-## Project Screenshots / Demo
-(Add your images in place of the placeholders below.)
+This repository is a companion page for the review:
+
+> **Beyond observation: Deep learning for animal behavior and ecological conservation**  
+> *Ecological Informatics, 84 (2024), 102893.*  
+> DOI: https://doi.org/10.1016/j.ecoinf.2024.102893
+
+The paper surveys deep learning approaches for animal behavior analysis and ecological conservation.  
+It covers:
+
+- 2D and 3D pose estimation  
+- Animal tracking and behavior recognition  
+- Deep learning in poultry, wildlife, and camera trap applications  
+- Advanced technologies: drones, biotelemetry, robotics, IoT  
+- Challenges: data limitations, generalization, real-time deployment, ethics  
+- Future research directions focusing on multimodal AI and ecological monitoring
 
 ---
 
-## 🚀 Getting Started
+# Summary of the Work
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/new-ai-model.git
-cd new-code
-```
+- Overview of deep learning methods for analyzing animal motion and behavior  
+- Key applications in agriculture, conservation, and wildlife monitoring  
+- Integration of sensing technologies (RGB cameras, IR, drones, telemetry)  
+- Technical challenges and promising directions for robust ecological AI  
 
-### 2. Running the Experiments
-```bash
-cd new-code
-python run.py --param
-```
+---
 
+# Acknowledgements
 
-## Acknowledgements
-This publication is based upon work supported by the Khalifa University of Science and Technology under Award No. RC1-2018-KUCARS. 
+This publication is based upon work supported by the Khalifa University of Science and Technology under Award No. RC1-2018-KUCARS.
 
+---
 
-## Bibtex
-```
-@article{Add_Paper_Tag,
-      title={Add Paper Title},
-      author={Author 1, Author 2, and Hussain, Irfan},
-      journal={State Journal Name},
-      volume={225},
-      pages={113487},
-      year={2025},
-      publisher={Elsevier}
-    }
-```
+# BibTeX
+
+```bibtex
+@article{saadsaoud2024beyond,
+  title={Beyond observation: Deep learning for animal behavior and ecological conservation},
+  author={Saad Saoud, Lyes and Sultan, Atif and Elmezain, Mahmoud and Heshmat, Mohamed and Seneviratne, Lakmal and Hussain, Irfan},
+  journal={Ecological Informatics},
+  volume={84},
+  pages={102893},
+  year={2024},
+  publisher={Elsevier},
+  doi={10.1016/j.ecoinf.2024.102893}
+}
+
