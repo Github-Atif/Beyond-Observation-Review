@@ -59,7 +59,7 @@ Lakmal Seneviratne • Irfan Hussain
 
 ## Figure 1. Traditional vs Deep Learning Methods
 
-![Comparison of traditional and deep learning methods in animal behavior analysis](asset/Comparison of traditional and deep learning methods in animal behavior.png)
+![Comparison of traditional and deep learning methods in animal behavior analysis](asset/fig1.png)
 
 **Fig. 1.** Comparison of traditional and deep learning methods in animal behavior analysis in terms of procedures, advantages (green), and disadvantages (red).
 
@@ -95,7 +95,7 @@ It covers:
 ---
 ## Figure 2. Sample Images from the CAMO++ Dataset
 
-![Sample images of camouflaged animals from the CAMO++ Dataset](asset/Instance Segmentation.png)
+![Sample images of camouflaged animals from the CAMO++ Dataset](asset/fig2.png)
 
 **Fig. 2.** Sample images of camouflaged animals from the CAMO++ Dataset and their labels.
 
