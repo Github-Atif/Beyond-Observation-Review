@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  eyond observation: Deep learning for animal behavior and ecological conservation Deep learning for animal behavior and ecological conservation
+  Beyond observation: Deep learning for animal behavior and ecological conservation Deep learning for animal behavior and ecological conservation
 </h2>
 
 
