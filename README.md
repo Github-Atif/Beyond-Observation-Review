@@ -19,9 +19,7 @@
 </div>
 
 <h4 align="center">
-  <a href="https://mashood3624.github.io/SwishFormer/"><b>Website</b></a> &nbsp;•&nbsp;
-  <a href="https://arxiv.org/"><b>Paper</b></a> &nbsp;•&nbsp; 
-  <a href="https://www.youtube.com/@Dr._Irfan_Robotics_Lab_KU"><b>Video</b></a>
+  <a href="https://doi.org/10.1016/j.ecoinf.2024.102893/"><b>Paper</b></a> &nbsp;•&nbsp; 
 </h4>
 
 <div align="center">
