@@ -38,6 +38,7 @@
 
 
 
+
 <div align="center">
     This review examines recent deep learning techniques for analyzing animal behavior and discusses their applications in ecological conservation.
   <img src="./website/images/overall.png"
@@ -54,7 +55,15 @@
 Lyes Saad Saoud • Atif Sultan • Mahmoud Elmezain • Mohamed Heshmat •  
 Lakmal Seneviratne • Irfan Hussain  
 
-#### Website (this page) • [Paper (Elsevier)](https://doi.org/10.1016/j.ecoinf.2024.102893) • Video (coming soon)
+---
+
+## Figure 1. Traditional vs Deep Learning Methods
+
+![Comparison of traditional and deep learning methods in animal behavior analysis](asset/Comparison of traditional and deep learning methods in animal behavior.png)
+
+**Fig. 1.** Comparison of traditional and deep learning methods in animal behavior analysis in terms of procedures, advantages (green), and disadvantages (red).
+
+#### [Paper (Elsevier)](https://doi.org/10.1016/j.ecoinf.2024.102893) • Video (coming soon)
 
 ---
 
@@ -84,6 +93,12 @@ It covers:
 - Technical challenges and promising directions for robust ecological AI  
 
 ---
+## Figure 2. Sample Images from the CAMO++ Dataset
+
+![Sample images of camouflaged animals from the CAMO++ Dataset](asset/Instance Segmentation.png)
+
+**Fig. 2.** Sample images of camouflaged animals from the CAMO++ Dataset and their labels.
+
 
 # Acknowledgements
 
