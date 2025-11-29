@@ -1,6 +1,6 @@
 <h1 align="center">
   <img height="85" alt="image" src="https://github.com/user-attachments/assets/bcfb2af2-5889-4534-bfec-a46f062f9244" /><br>
-  Beyond observation: Deep learning for animal behavior and ecological conservation Deep learning for animal behavior and ecological conservation
+  Beyond observation: Deep learning for animal behavior and ecological conservation deep learning for animal behavior and ecological conservation
 
 </h1>
 
