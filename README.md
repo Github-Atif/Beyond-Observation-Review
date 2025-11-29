@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &nbsp;&nbsp;&nbsp;&nbsp; <img height="65" alt="image" src="https://github.com/user-attachments/assets/f9af6b5d-b8f3-4ca9-9398-d1d01cea6262" />  &nbsp;&nbsp; <img height="65" alt="image" src="https://github.com/user-attachments/assets/5dd33fad-d340-4fa4-b47b-6b2c3e44819a" />
+ <img height="65" alt="image" src="https://github.com/user-attachments/assets/f9af6b5d-b8f3-4ca9-9398-d1d01cea6262" />  &nbsp;&nbsp; <img height="65" alt="image" src="https://github.com/user-attachments/assets/5dd33fad-d340-4fa4-b47b-6b2c3e44819a" />
 
 </div>
 
@@ -35,32 +35,12 @@
 
 
 
-
-
-
-<div align="center">
-    This review examines recent deep learning techniques for analyzing animal behavior and discusses their applications in ecological conservation.
-  <img src="./website/images/overall.png"
-  width="80%">
-</div>
-
-
-
-
-
-# Beyond observation: Deep learning for animal behavior and ecological conservation
-## Deep learning for animal behavior and ecological conservation
-
-Lyes Saad Saoud • Atif Sultan • Mahmoud Elmezain • Mohamed Heshmat •  
-Lakmal Seneviratne • Irfan Hussain  
-
 ---
 
-## Figure 1. Traditional vs Deep Learning Methods
 
 ![Comparison of traditional and deep learning methods in animal behavior analysis](asset/fig1.png)
 
-**Fig. 1.** Comparison of traditional and deep learning methods in animal behavior analysis in terms of procedures, advantages (green), and disadvantages (red).
+Comparison of traditional and deep learning methods in animal behavior analysis in terms of procedures, advantages (green), and disadvantages (red).
 
 #### [Paper (Elsevier)](https://doi.org/10.1016/j.ecoinf.2024.102893) • Video (coming soon)
 
@@ -92,11 +72,11 @@ It covers:
 - Technical challenges and promising directions for robust ecological AI  
 
 ---
-## Figure 2. Sample Images from the CAMO++ Dataset
+
 
 ![Sample images of camouflaged animals from the CAMO++ Dataset](asset/fig2.png)
 
-**Fig. 2.** Sample images of camouflaged animals from the CAMO++ Dataset and their labels.
+Sample images of camouflaged animals from the CAMO++ Dataset and their labels.
 
 
 # Acknowledgements
